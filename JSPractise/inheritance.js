@@ -55,6 +55,7 @@ const car = new Car("Honda", "Civic", 2022, "Diesel");
 const truck =  new Truck("Tata", "Sumo", 2020, 1000);
 
 car.startEngine();
+car.getInfo();
 console.log(car.getInfo());
 car.stopEngine();
 car.useAerodynamic();

@@ -4,6 +4,7 @@ class Car {
         this.name = name;
         this.price = price;
         this.model = model;
+        
         this.color = color;
     }
     refuel(){

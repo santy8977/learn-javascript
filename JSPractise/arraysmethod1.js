@@ -27,6 +27,7 @@ console.log("Last of index " +lastApple);
 let fruitsRev = ['apple', 'banana', 'apple', 'mango', 'blackberry'];
 let reverse = fruitsRev.reverse(); 
 console.log("Reverse friuts :" +reverse);
+console.log("Check the data");
 
 // 6. sort()
 let products = ['mackbook', 'imac', 'ipad', 'canon'];
