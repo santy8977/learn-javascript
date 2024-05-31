@@ -1,7 +1,7 @@
 // 1. every()
 let numbers = [1,2,3,4,5];
 let flag = numbers.every((a) => a<10);
-console.log("Check every :" +flag);
+console.log("Check the numbers every :" +flag);
 
 // 2. some()
 let number = [1,2,3,4,5];
