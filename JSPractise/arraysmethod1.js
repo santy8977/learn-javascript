@@ -29,6 +29,11 @@ let reverse = fruitsRev.reverse();
 console.log("Reverse friuts :" +reverse);
 console.log("Check the data");
 
+// reverse number
+const arrnum = [10,20,30,40,50,60]
+let revnum = arrnum.reverse();
+console.log("Reverse numbers :" +revnum);
+
 // 6. sort()
 let products = ['mackbook', 'imac', 'ipad', 'canon'];
 let proSort = products.sort(); 

@@ -13,7 +13,7 @@ let flag = true;
 console.log(typeof flag);
 
 const arr = [1,2,3,4,5];
-console.log(typeof arr);
+console.log("Type of arr: "+typeof arr);
 
 const j = null
 console.log(typeof j);
